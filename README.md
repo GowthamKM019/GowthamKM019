@@ -9,7 +9,7 @@
 - 💻 Interested in AI, Full Stack Development & Python
 - 🌱 Currently learning Django, React and Machine Learning
 - 🔥 Building real-world projects
-- 📫 Reach me at: gowthamkmgowda802@gmail.com
+- 📫 Reach me at: gowthamkmgowda801@gmail.com
 
 ---
 
