@@ -29,8 +29,9 @@
 ### 🐄 Pashu-Sanchalan
 - Animal management system
 
-### 🤖 Toxicity Monitoring System
-- AI-based toxic comment detection
+### 🐍 Snake + Egg Game
+- 2D browser-playable game developed using Godot Engine
+- Features score tracking, smooth controls, and interactive gameplay
 
 ---
 
