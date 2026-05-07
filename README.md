@@ -8,7 +8,7 @@
 - 🎓 CSE Student at Malnad College of Engineering
 - 💻 Interested in AI, Full Stack Development & Python
 - 🌱 Currently learning Django, React and Machine Learning
-- 🔥 Building real-world projects for placements
+- 🔥 Building real-world projects
 - 📫 Reach me at: gowthamkmgowda802@gmail.com
 
 ---
